@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../../../../xampp/htdocs/kumpulinTugas/kumpulin/src/Images/hero3.png</file>
+    <file>../../../../../../xampp/htdocs/kumpulinTugas/kumpulin/src/Images/ICON.png</file>
+    <file>../../../../../../xampp/htdocs/kumpulinTugas/kumpulin/src/Images/KM.png</file>
+    <file>../../../../../../xampp/htdocs/kumpulinTugas/kumpulin/src/Images/unmul.png</file>
+  </qresource>
+</RCC>
